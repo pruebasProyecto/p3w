@@ -1,0 +1,20 @@
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: #FFFF;
+  }
+
+  main {
+    flex: 1 0 auto;
+    background-color: #FFFF ;
+  }
+
+  .ajustaLogo{
+  	width: 25%;
+  	height: auto;
+  }
+  .index{
+    font-family: 'Mali', cursive;
+    color: #000000;
+  }
